@@ -17,7 +17,7 @@
 
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jasimjz/jzbot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arsal812/ARZBOT/)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/xxirfanx/luabot)](https://repl.it/github/xxirfanx/luabot)
