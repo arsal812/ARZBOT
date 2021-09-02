@@ -4,10 +4,10 @@
 	"zeksKey": "apikey",
 	"autoRead": true,
 	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["917xxxxxx@s.whatsapp.net", "919xxxxxx@s.whatsapp.net"],
+	"maxLimit": 1000,
+	"ownerList": ["918089276308@s.whatsapp.net", "919xxxxxx@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://api.zeks.me/logo.jpg",
-	"pack": "lua",
-	"author": "cheia🎀"
+	"pack": "Jasim",
+	"author": "Jz🎀"
 }
