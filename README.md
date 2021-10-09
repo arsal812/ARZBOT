@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://images5.alphacoders.com/911/911614.png" alt="luabot" width="500" />
 
-# **LUA BOT SER🎀**
+# **ARZ BOT 🎀**
 
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
@@ -53,8 +53,8 @@ after start it you need to scan the qr
 #### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](https://t.me/lua_bro)
-- [WHATSAPP](http://wa.me/917736716373)
+- [TELEGRAM](https://t.me/PSYCHOG77)
+- [WHATSAPP](http://wa.me/917907359217)
 
 
 ## 🙏 Special Thanks to
